@@ -1,0 +1,29 @@
+
+
+#siteWrapper{
+    height: 100vh;
+
+}
+
+#hero{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background-size: cover;
+    background-position: 50% 100%;
+    background-image: url("http://getwallpapers.com/wallpaper/full/f/0/b/728222-miami-beach-wallpapers-1920x1080-for-samsung-galaxy.jpg");
+    height: 60vh;
+}
+
+#titleText{
+    font-size: 25pt;
+}
+
+#signUp{
+    background-color: #FBBC06;
+}
+
+body{
+font-family: 'Barlow', sans-serif;
+
+}
